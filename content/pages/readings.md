@@ -25,26 +25,26 @@ Space Systems and Definitions
 
 *Required*
 
-Crawley, Edward, Olivier de Weck, Steven Eppinger, Christopher Magee, Joel Moses, Warren Seering, Joel Schindall, David Wallace, and Daniel Whitney (Chair). "The Influence of Architecture in Engineering Systems." 2004. ({{% resource_link "bbfdecee-81ea-44fe-8908-5150d2154b90" "PDF" %}})
+Crawley, Edward, Olivier de Weck, Steven Eppinger, Christopher Magee, Joel Moses, Warren Seering, Joel Schindall, David Wallace, and Daniel Whitney (Chair). "The Influence of Architecture in Engineering Systems." 2004. ([PDF](http://esd.mit.edu/symposium/pdfs/monograph/architecture-b.pdf))
 
 Maier on Systems Architecture: Maier, Mark W., and Eberhardt Rechtin. *The Art of Systems Architecting*. Boca Raton, FL: CRC Press, 2002, chapters 1 and 2. ISBN: 0849304407.
 
 Clark on Networks: Clark, David D. "The Nature of Network Architecture." *NewArch: Future Generation Internet Architecture,* DARPA grant F30602-00-2-0553 (2004): Section 2.
 
-Maier on System of Systems: Maier, Mark W. "{{% resource_link "82ac2749-c281-4edd-a3e0-bf3fd5654f88" "Architecting Principles for Systems-of-Systems" %}}." *Systems Engineering* 1, no. 4 (1998): 267-284.
+Maier on System of Systems: Maier, Mark W. "[Architecting Principles for Systems-of-Systems](https://onlinelibrary.wiley.com/doi/pdf/10.1002/%28SICI%291520-6858%281998%291%3A4%3C267%3A%3AAID-SYS3%3E3.0.CO%3B2-D)." *Systems Engineering* 1, no. 4 (1998): 267-284.
 
-Sage and Lynch on System Views: Sage, Andrew P., and Charles L. Lynch. "{{% resource_link "36626954-3826-457c-809a-0f5c2297fe9f" "Systems Integration and Architecting: An Overview of Principles, Practices, and Perspectives" %}}1:3%3C176::AID-SYS3%3E3.0.CO;2-L)." *Systems Engineering* 1, no. 3 (1998): 176-227.
+Sage and Lynch on System Views: Sage, Andrew P., and Charles L. Lynch. "[Systems Integration and Architecting: An Overview of Principles, Practices, and Perspectives](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291520-6858%281998)1:3%3C176::AID-SYS3%3E3.0.CO;2-L)." *Systems Engineering* 1, no. 3 (1998): 176-227.
 
 Iridium Trades: Garrison, T. P., M. Ince, J. Pizzicaroli, and P. A. Swan. "System Engineering Trades for the IRIDIUM Constellation." *Journal of Spacecraft and Rockets* 34, no. 5 (1997): 675-680.
 
-NASA new design paradigm: Goldin, Daniel S., Samuel L. Venneri, and Ahmed K. Noor. "{{% resource_link "1dd374ec-ddab-4d8b-9b96-f9385ab82aa0" "New Frontiers in Design Synthesis" %}}." *Acta Astronautica* 44, no. 7-12 (April-June 1999): 407-418.
+NASA new design paradigm: Goldin, Daniel S., Samuel L. Venneri, and Ahmed K. Noor. "[New Frontiers in Design Synthesis](http://dx.doi.org/10.1016/S0094-5765%2899%2900087-9)." *Acta Astronautica* 44, no. 7-12 (April-June 1999): 407-418.
 
 *Recommended*
 
-History of US MILSATCOM: Martin, Donald H. "{{% resource_link "6e8d36c3-a7cf-4bca-9e9a-a3464c6f7bf5" "A History of U.S. Military Satellite Communication Systems" %}}." *Crosslink* 3, no. 1 (Winter 2001/2002).     
-See also {{% resource_link "960b694d-632c-41d9-861a-b2d93e040c1a" "MILSATCOM descriptions" %}}.
+History of US MILSATCOM: Martin, Donald H. "[A History of U.S. Military Satellite Communication Systems](https://pdfs.semanticscholar.org/3af2/7a89c1f1ded8b73c6e42df3c283e611d3acc.pdf)." *Crosslink* 3, no. 1 (Winter 2001/2002).     
+See also [MILSATCOM descriptions](https://web.archive.org/web/20120728161721/https://www.smi-online.co.uk/defence/asia/milsatcom-asia).
 
-{{% resource_link "cd47c5e0-c4eb-47d1-bbe0-728437f953bd" "GPS site" %}}.
+[GPS site](https://web.archive.org/web/20080221023513/http://geodemo-c.ucsd.edu/gridsphere/gridsphere).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -86,7 +86,7 @@ Gumbert, C. C., M. D. Violet, D. E. Hastings, W. M. Hollister, and R. R. Lovel. 
 
 Shaw, G. M., D. W. Miller, and D. E. Hastings. "Development of the Quantitative Generalized Information Network Analysis (GINA) Methodology for Satellite Systems." *Journal of Spacecraft and Rockets* 38, no. 2 (2001): 257-269.
 
-Thurston, D. L. "{{% resource_link "1454953a-15bd-4701-bec8-eae587da0a38" "Real and Misconceived Limitations to Decision Based Design with Utility Analysis" %}}." *Journal of Mechanical Design* 123 (June 2001): 176-82.
+Thurston, D. L. "[Real and Misconceived Limitations to Decision Based Design with Utility Analysis](http://dx.doi.org/10.1115/1.1363610)." *Journal of Mechanical Design* 123 (June 2001): 176-82.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -165,17 +165,17 @@ Department of Defense. Report of the Defense Science Board / Air Force Scientifi
 
 Hastings, Daniel, Annalisa Weigel, and Myles Walton. "Incorporating Uncertainty into Conceptual Design of Space System Architectures." Full text ({{% resource_link "c752cb55-b6ac-becb-dbb5-73c0a235d7c4" "PDF" %}}), data ({{% resource_link "0caa0da8-3e6f-893d-dbdd-ee6c7e790d28" "PDF" %}}), and conclusion ({{% resource_link "80c7af16-77b6-188d-3a01-19fbae00dea3" "PDF" %}}). (Courtesy of Daniel Hastings, Annalisa Weigel, and Myles Walton. Used with permission.)
 
-Zuckerman, Brian. "Defining Engineering Systems: Investigating National Missile Defense." ({{% resource_link "3082571b-66d4-4422-b664-38a70b6a6e0e" "PDF" %}})
+Zuckerman, Brian. "Defining Engineering Systems: Investigating National Missile Defense." ([PDF](http://esd.mit.edu/WPS/symposium2004/esd-wp-2003-01.12.PDF))
 
 Thunnisen, D. P. "Method for Determining Margins in Conceptual Design." *Journal of Spacecraft and Rockets* 41, no. 1 (2004): 85-92.
 
 Garber, R., and M. Elisabeth Paté-Cornell. "Modeling the Effects of Dispersion of Design Teams on System Failure Risk." *Journal of Spacecraft and Rockets* 41, no. 1 (2004): 60-68.
 
-Walton, Myles A., and Daniel E. Hastings. "Managing Uncertainty in the Conceptual Design of Space Systems Using Portfolio Theory." ({{% resource_link "f02fbdf8-792e-4ba0-a517-7687479dfbff" "PDF" %}})
+Walton, Myles A., and Daniel E. Hastings. "Managing Uncertainty in the Conceptual Design of Space Systems Using Portfolio Theory." ([PDF](http://esd.mit.edu/symposium/pdfs/papers/hastings.pdf))
 
 ———. "Applications of Uncertainty Analysis Applied to the Conceptual Design of Space Systems." ({{% resource_link "06c8a697-75d9-b878-c7a2-836b84bcf6bc" "PDF - 2.3 MB" %}}) (Courtesy of Myles A. Walton and Daniel E. Hastings. Used with permission.)
 
-{{% resource_link "53d689f2-6f55-42ea-bc7f-51d620beeef1" "Columbia Accident Investigation Report" %}} - Executive Summary.
+[Columbia Accident Investigation Report](http://www.nasa.gov/columbia/home/CAIB_Vol1.html) - Executive Summary.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -217,7 +217,7 @@ Policy Issues in Space System Architectures
 
 *Required*
 
-Weigel, Annalisa L., and Daniel E. Hastings. "{{% resource_link "eb494993-a706-4774-84ad-d3e6f9d8048c" "Interaction of Policy Choices and Technical Requirements for a Space Transportation Infrastructure" %}}."
+Weigel, Annalisa L., and Daniel E. Hastings. "[Interaction of Policy Choices and Technical Requirements for a Space Transportation Infrastructure](http://dx.doi.org/10.1016/S0094-5765%2802%2900122-4)."
 
 ———. "Application of Real Options to Strategic Management of Military Satellite Communications." AIAA Space 2001 Conference and Exposition. Albuquerque, NM, August 28-30, 2001.
 
@@ -227,7 +227,7 @@ Weigel, Annalisa L., and Daniel E. Hastings. "{{% resource_link "eb494993-a706-4
 
 Weigel, Annalisa L., and Daniel E. Hastings. "Evaluating the Cost and Risk Impacts of Launch Choices." *Journal of Spacecraft and Rockets* *(0022-4650)* 41, no. 1 (2004).
 
-Hastings, Daniel E., Elisabeth S. Lamassoure, Annalisa L. Weigel, and Joseph H. Saleh. "{{% resource_link "2cbd71f4-f425-404a-ad48-1f35b0e7642c" "Policy Enablers for the Development of a Space-Based Infrastructure" %}}." 2001.
+Hastings, Daniel E., Elisabeth S. Lamassoure, Annalisa L. Weigel, and Joseph H. Saleh. "[Policy Enablers for the Development of a Space-Based Infrastructure](http://books.google.co.in/books?hl=en&lr=&id=DVxIVJVZW1wC&oi=fnd&pg=PA123&dq=%22Hastings%22+%22Policy+Enablers+for+the+Development+of+a+Space-Based+%E2%80%A6%22+&ots=mKblcP7I9g&sig=csywHGw9tGhGTBRQLCAeSartRys)." 2001.
 
 de Weck, Olivier L., and Darren (Datong) Chang. "Architecture Trade Methodology for LEO Personal Communication Systems." AIAA 2002-1866, 20th Intl Comm Satellite Systems Conference. Montreal, Canada, May 12-15, 2002.
 
